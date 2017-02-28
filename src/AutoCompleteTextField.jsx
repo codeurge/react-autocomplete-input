@@ -271,7 +271,7 @@ class AutocompleteTextField extends React.Component {
 	updateHelper(str, caret, options) {
 		const input = findDOMNode(this.refInput);
 
-		const slug = this.getMatch(str.toLowerCase(), caret, options);
+		const slug = this.getMatch(str, caret, options);
 
 		if (slug) {
 			const caretPos = getCaretCoordinates(input, caret);
