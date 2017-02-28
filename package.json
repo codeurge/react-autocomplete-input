@@ -1,6 +1,6 @@
 {
   "name": "react-autocomplete-input",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Autocomplete input field for React",
   "main": "dist/bundle.js",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yury-dymov/react-autocomplete-input.git"
+    "url": "git+https://github.com/codeurge/react-autocomplete-input.git"
   },
   "keywords": [
     "react",
@@ -20,12 +20,12 @@
     "input",
     "textarea"
   ],
-  "author": "Yury Dymov",
+  "author": "Derek Keith",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yury-dymov/react-autocomplete-input/issues"
+    "url": "https://github.com/codeurge/react-autocomplete-input/issues"
   },
-  "homepage": "https://github.com/yury-dymov/react-autocomplete-input#readme",
+  "homepage": "https://github.com/codeurge/react-autocomplete-input#readme",
   "devDependencies": {
     "babel-core": "^6.14.0",
     "babel-eslint": "^6.1.2",
